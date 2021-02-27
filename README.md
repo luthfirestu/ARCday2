@@ -1,1 +1,2 @@
-# ARCday2
+Nama : Luthfi Restu Kusumastuti
+NIM : 16520110
